@@ -739,7 +739,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/day-multipurpose-html-template-for-free/ -->
-        Desain <a href="https://bootstrapmade.com/">PDVR</a>
+        Desain <a href="">PDVR</a>
       </div>
     </div>
   </footer><!-- End Footer -->
@@ -757,7 +757,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-  <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+
 <script>
 
 </body>
