@@ -149,10 +149,11 @@
               <li><i class="bi bi-check-circle"></i> Mengarsipkan Rekening Untuk Pusat dan Cabang.</li>
             </ul>
             <p>
-              Aplikasi yang digunakan yaitu AURORA dimana aplikasi tersebut untuk mengelola hasil baca meter Pelanggan
-              yang kenudian hasil poto tersebut oleh bagian kami diinput sesuai dengan poto adapun hasil outputnya
-              merupakan informasi m3 terpakai dan jumlah nominal uang yang harus ditagihkan dengan istilah Data
-              Rekening Ditagihkan</Datag>(DRD) dan Data Sisa Rekening (DSR).
+              Aplikasi yang digunakan yaitu AURORA dan SIPERAK (Sistem Pelayanan Rekening Air Konsumen) dimana 
+              aplikasi tersebut digunakan untuk mengelola hasil baca meter Pelanggan yang kemudian hasil 
+              upload poto meteran dari cabang oleh bagian kami diinputkan sesuai dengan poto, adapun hasil outputnya
+              merupakan informasi m3 pelanggan terpakai dan jumlah nominal uang yang harus ditagihkan 
+              kepada pelanggan dengan istilah Data Rekening Ditagihkan (DRD) dan Data Sisa Rekening (DSR).
             </p>
           </div>
         </div>
