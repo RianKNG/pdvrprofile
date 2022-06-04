@@ -313,8 +313,8 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Portfolio</span>
-          <h2>POTO</h2>
+          <span>Poto</span>
+          <h2>Poto</h2>
           {{-- <p>Poto Kegiatan PDVR</p> --}}
         </div>
 
@@ -499,7 +499,7 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Team</span>
+          <span>Personil P D P R</span>
           <h2>Personil P D P R</h2>
           <p>Jumlah Personil P D P R sebanyak 5 Staff 1 Ka. Sub Bag. 1 Ka Bag</p>
         </div>
@@ -603,7 +603,7 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Contact</span>
+          <span>Kontak</span>
           <h2>Kontak</h2>
           <p>Informasi Lokasi dan alamat Perusahaan</p>
         </div>
