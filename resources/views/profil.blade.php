@@ -43,12 +43,16 @@
       <div class="contact-info d-flex align-items-center">
         {{-- <i class="bi bi-envelope-fill"></i><a href="http://pdamsumedang.com/"> pdamsumedang@gmail.com</a>
         <i class="bi bi-phone-fill phone-icon"></i><a href="http://pdamsumedang.com/call"> Call Center</a> --}}
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        &nbsp;<a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        &nbsp;<a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        &nbsp;<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <a href="https://twitter.com/amdktirtamedal" class="twitter"><i class="bi bi-twitter"></i></a>
+        &nbsp;<a href="https://m.facebook.com/profile.php?id=233668556833416" class="facebook"><i class="bi bi-facebook"></i></a>
+        &nbsp;<a href="https://www.instagram.com/p/BoCBij_n1jO/?hl=id" class="instagram"><i class="bi bi-instagram"></i></a>
+        {{-- &nbsp;<a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> --}}
+        &nbsp;&nbsp;
+       
+        بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
         
         {{-- <i class=""></i> +1 5589 55488 55 --}}
+        
       </div>
       <div class="social-links d-none d-md-block">
         {{-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -63,18 +67,19 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html"><img src="assets/img/favicon.png" class="img-fluid animated" alt="">&nbsp;PERUMDA</a></h1>
+      <h1 class="logo"><a href="#hero"><img src="assets/img/favicon.png" class="img-fluid animated" alt="">&nbsp;PERUMDA</a></h1>
+      
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
+          {{-- <li><a class="nav-link scrollto" href="#services">Services</a></li> --}}
+          <li><a class="nav-link scrollto " href="#portfolio">Galeri</a></li>
           {{-- <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li> --}}
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a class="nav-link scrollto" href="#team">Tim</a></li>
           {{-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -92,7 +97,7 @@
               <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li> --}}
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -103,20 +108,22 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1 style="color:#0000FF;">P D V R</h1>
-      {{-- <h1>P D V R</h1> --}}
-      {{-- <h2>Pengelolaan Data Validasi Rekening</h2> --}}
+      <h1 style="color:#0000FF;">P &nbsp;  D &nbsp; P  &nbsp; R</h1>
+      {{-- <h1>P D P R</h1> --}}
+      {{-- <h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</h2> --}}
       
-      <h2 style="color:#FFFF00;"><marquee><font face="Comic Sans MS"> Pengelolaan Data Validasi Rekening</font></marquee></h2>
+      <h2 style="color:#FFFF00;"><marquee scrollamount="20"><font face="Comic Sans MS"> Pengelolaan Data Pelanggan Rekening</font></marquee></h2>
+     
       
       {{-- <a href="#about" class="btn-get-started scrollto">Get Started</a> --}}
       <div>
-        <a href="https://www.youtube.com/watch?v=LuYp7pEoVDE" class="btn-get-started scrollto"><i class="bi bi-play-circle"></i>&nbsp;Youtube</a>
+        <a href="https://youtu.be/szQTWvNkkMI" class="btn-get-started scrollto"><i class="bi bi-play-circle"></i>&nbsp;Youtube</a>
         {{-- <a href="" class="glightbox btn-watch-video"><span></span></a> --}}
       </div>
     </div>
   
   </section><!-- End Hero -->
+  
 
   <main id="main">
 
@@ -129,17 +136,23 @@
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3>P.D.V.R.</h3>
+            <h3>P.D.P.R.</h3>
             <p class="fst-italic">
               {{-- .Pengelolaan Data Validasi Air --}}
             </p>
             <ul>
-              <li><i class="bi bi-check-circle"></i> Input Data.</li>
-              <li><i class="bi bi-check-circle"></i> Evalusi.</li>
+              <li><i class="bi bi-check-circle"></i> Input berdasrkan Hasil Poto.</li>
+              <li><i class="bi bi-check-circle"></i> Evalusi Pemakaian .</li>
+              <li><i class="bi bi-check-circle"></i> Melayani Cabang dan unik dalam berkoordinasi .</li>
+              <li><i class="bi bi-check-circle"></i> Memasukan File-File Dari Cabang .</li>
               <li><i class="bi bi-check-circle"></i> Cetak Rekening.</li>
+              <li><i class="bi bi-check-circle"></i> Mengarsipkan Rekening Untuk Pusat dan Cabang.</li>
             </ul>
             <p>
-              Hasil Input Data Cabang mengecek kembali Hasil Inputan PDVR
+              Aplikasi yang digunakan yaitu AURORA dimana aplikasi tersebut untuk mengelola hasil baca meter Pelanggan
+              yang kenudian hasil poto tersebut oleh bagian kami diinput sesuai dengan poto adapun hasil outputnya
+              merupakan informasi m3 terpakai dan jumlah nominal uang yang harus ditagihkan dengan istilah Data
+              Rekening Ditagihkan</Datag>(DRD) dan Data Sisa Rekening (DSR).
             </p>
           </div>
         </div>
@@ -218,7 +231,7 @@
     </section><!-- End Clients Section --> --}}
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    {{-- <section id="services" class="services">
       <div class="container">
 
         <div class="section-title">
@@ -279,10 +292,10 @@
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section><!-- End Services Section --> --}}
 
     <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
+    {{-- <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
@@ -292,7 +305,7 @@
         </div>
 
       </div>
-    </section><!-- End Cta Section -->
+    </section><!-- End Cta Section --> --}}
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
@@ -300,17 +313,17 @@
 
         <div class="section-title">
           <span>Portfolio</span>
-          <h2>Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <h2>POTO</h2>
+          {{-- <p>Poto Kegiatan PDVR</p> --}}
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Semua</li>
+              <li data-filter=".filter-app">Kegiatan Input</li>
+              <li data-filter=".filter-card">Arsip</li>
+              <li data-filter=".filter-web">Luar</li>
             </ul>
           </div>
         </div>
@@ -318,93 +331,93 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="150">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            <img src="assets/img/portfolio/portfolio-1.jpeg" class="img-fluid" alt="">
+            {{-- <div class="portfolio-info">
               <h4>App 1</h4>
               <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-1.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            <img src="assets/img/portfolio/portfolio-2.jpeg" class="img-fluid" alt="">
+            {{-- <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-2.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            <img src="assets/img/portfolio/portfolio-3.jpeg" class="img-fluid" alt="">
+            {{-- <div class="portfolio-info">
               <h4>App 2</h4>
               <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-3.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            <img src="assets/img/portfolio/portfolio-4.jpeg" class="img-fluid" alt="">
+            {{-- <div class="portfolio-info">
               <h4>Card 2</h4>
               <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href="assets/img/portfolio/portfolio-4.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            {{-- <div class="portfolio-info">
               <h4>Web 2</h4>
               <p>Web</p>
               <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            {{-- <div class="portfolio-info">
               <h4>App 3</h4>
               <p>App</p>
               <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            {{-- <div class="portfolio-info">
               <h4>Card 1</h4>
               <p>Card</p>
               <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            {{-- <div class="portfolio-info">
               <h4>Card 3</h4>
               <p>Card</p>
               <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
+            {{-- <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
               <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+            </div> --}}
           </div>
 
         </div>
@@ -486,59 +499,96 @@
 
         <div class="section-title">
           <span>Team</span>
-          <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <h2>Personil P D P R</h2>
+          <p>Jumlah Personil P D P R sebanyak 5 Staff 1 Ka. Sub Bag. 1 Ka Bag</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <img src="assets/img/team/team-1.jpeg" alt="">
+              <h4>Ibu Icih</h4>
+              <span>Kepala Bagian</span>
               <p>
-                Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                Sebagai Manager tim yang bertugas mengatur kegiatan yang mencakup Bagian Humas dan
+                merencanakan kerja jangka Panjang dan jangka Pendek
               </p>
-              <div class="social">
+              {{-- <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
                 <a href=""><i class="bi bi-facebook"></i></a>
                 <a href=""><i class="bi bi-instagram"></i></a>
                 <a href=""><i class="bi bi-linkedin"></i></a>
-              </div>
+              </div> --}}
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="assets/img/team/team-2.jpeg" alt="">
+              <h4>Dian Komara. SE</h4>
+              <span>Kepala Sub Bagian</span>
+              <p>
+                Kepala yang membawahi Kepala Bagian Hubungan Masarakat Khusus Bagian PDPR untuk mengatur dan
+                merencanakan progran kerja dibagian PDVR
+              </p>
+              
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="assets/img/team/team-3.jpeg" alt="">
+              <h4>Ipang S.Kom</h4>
+              <span>Staff Senior</span>
+              <p>
+                Evalusi Data pelanggan dengan tersususun dan terperinci dan juga input data meter air pelanggan
+                cabang Sumedang Utara, UjungJaya
+              </p>
+            
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="assets/img/team/team-4.jpeg" alt="">
+              <h4>Sri.SE</h4>
+              <span>Staff Senior</span>
+              <p>
+                Input Data Pelanggan Cabang Pamulihan, Sumedang Selatan
+              </p>
+             
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+            <div class="member">
+              <img src="assets/img/team/team-5.jpeg" alt="">
+              <h4>Ido. SE</h4>
+              <span>Staff Junior</span>
+              <p>
+                Input Data Cabang Tanjungsari, Jatinangor dan Situraja
+              </p>
+             
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <img src="assets/img/team/team-6.jpeg" alt="">
+              <h4>Meli.SE</h4>
+              <span>Staff Senior</span>
               <p>
-                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+                Input Pelanggan Meter Air cabang Wado, Unit Darmaraja Cabang Cisitu
               </p>
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-              </div>
+             
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <img src="assets/img/team/team-7.jpeg" alt="">
+              <h4>Rian Riansah</h4>
+              <span>Staff</span>
               <p>
-                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                Input Meter Air pelanggan cabang Tomo, Paseh dan cabang Cimanggung
               </p>
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-              </div>
+              
             </div>
           </div>
 
@@ -553,32 +603,32 @@
 
         <div class="section-title">
           <span>Contact</span>
-          <h2>Contact</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <h2>Kontak</h2>
+          <p>Informasi Lokasi dan alamat Perusahaan</p>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-lg-6">
             <div class="info-box mb-4">
               <i class="bx bx-map"></i>
-              <h3>Our Address</h3>
-              <p>A108 Adam Street, New York, NY 535022</p>
+              <h3>Alamat</h3>
+              <p>Serang, Kec. Cimalaka, Kabupaten Sumedang, Jawa Barat 45353</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
-              <h3>Email Us</h3>
-              <p>contact@example.com</p>
+              <h3>Email PDAM</h3>
+              <p>pdamsumedang@gmail.com</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6">
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
-              <h3>Call Us</h3>
-              <p>+1 5589 55488 55</p>
+              <h3>Call</h3>
+              <p> 022-7794127</p>
             </div>
           </div>
 
@@ -587,7 +637,7 @@
         <div class="row" data-aos="fade-up">
 
           <div class="col-lg-6 ">
-            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.578274633269!2d107.94304721408594!3d-6.821034768613468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68d6a5abfa6279%3A0xd862ab68975a2d14!2sPDAM%20Tirta%20Medal%20Sumedang!5e0!3m2!1sid!2sid!4v1654361894375!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
 
           <div class="col-lg-6">
@@ -632,33 +682,31 @@
             <div class="footer-info">
               <h3>PERUMDA</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Serang, Kec. Cimalaka, <br>
+                Kabupaten Sumedang, Jawa Barat 45353t<br><br>
+                <strong>Telepon:</strong> 022-7794127<br>
+                <strong>Email:</strong> pdamsumedang@gmail.com<br>
               </p>
               <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://twitter.com/amdktirtamedal" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="https://m.facebook.com/profile.php?id=233668556833416" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/p/BoCBij_n1jO/?hl=id" class="instagram"><i class="bx bxl-instagram"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Penggunaan Link</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Tentang</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Galeri</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Kontak</a></li>
+              {{-- <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> --}}
             </ul>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
+          {{-- <div class="col-lg-2 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -667,11 +715,11 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
-          </div>
+          </div> --}}
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Subscribe</h4>
+            <p>Silahkan subscribe</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
@@ -684,14 +732,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Day</span></strong>. All Rights Reserved
+        &copy; dibuat <strong><span>oleh</span></strong>. P D P R TIM
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/day-multipurpose-html-template-for-free/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Desain <a href="https://bootstrapmade.com/">PDVR</a>
       </div>
     </div>
   </footer><!-- End Footer -->
@@ -709,6 +757,8 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+<script>
 
 </body>
 
