@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>PERUMDA PDVR</title>
+  <title>PERUMDA VDPR</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -109,10 +109,10 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1 style="color:#0000FF;">P &nbsp;  D &nbsp; P  &nbsp; R</h1>
-      {{-- <h1>P D P R</h1> --}}
+      {{-- <h1>V D P R</h1> --}}
       {{-- <h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</h2> --}}
       
-      <h2 style="color:#FFFF00;"><marquee scrollamount="20"><font face="Comic Sans MS"> Pengelolaan Data Pelanggan Rekening</font></marquee></h2>
+      <h2 style="color:#FFFF00;"><marquee scrollamount="20"><font face="Comic Sans MS"> Verifikasi Data dan Pendapatan Rekening</font></marquee></h2>
      
       
       {{-- <a href="#about" class="btn-get-started scrollto">Get Started</a> --}}
@@ -146,7 +146,7 @@
               <li><i class="bi bi-check-circle"></i> Melayani Cabang dan unik dalam berkoordinasi .</li>
               <li><i class="bi bi-check-circle"></i> Memasukan File-File Dari Cabang .</li>
               <li><i class="bi bi-check-circle"></i> Cetak Rekening.</li>
-              <li><i class="bi bi-check-circle"></i> Mengarsipkan Rekening Untuk Pusat dan Cabang.</li>
+              <li><i class="bi bi-check-circle"></i> Mengarsipkan Rekening Untuk Pusat, Cabang dan Unit.</li>
             </ul>
             <p>
               Aplikasi yang digunakan yaitu AURORA dan SIPERAK (Sistem Pelayanan Rekening Air Konsumen) dimana 
@@ -315,7 +315,7 @@
         <div class="section-title">
           <span>Poto</span>
           <h2>Poto</h2>
-          {{-- <p>Poto Kegiatan PDVR</p> --}}
+          {{-- <p>Poto Kegiatan VDPR</p> --}}
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -499,9 +499,9 @@
       <div class="container">
 
         <div class="section-title">
-          <span>Personil P D P R</span>
-          <h2>Personil P D P R</h2>
-          <p>Jumlah Personil P D P R sebanyak 5 Staff 1 Ka. Sub Bag. 1 Ka Bag</p>
+          <span>Personil V D P R</span>
+          <h2>Personil V D P R</h2>
+          <p>Jumlah Personil V D P R sebanyak 5 Staff 1 Kepala. Sub Bagian. 1 Kepala Bagian</p>
         </div>
 
         <div class="row">
@@ -529,7 +529,7 @@
               <span>Kepala Sub Bagian</span>
               <p>
                 Kepala yang membawahi Kepala Bagian Hubungan Masarakat Khusus Bagian PDPR untuk mengatur dan
-                merencanakan progran kerja dibagian PDVR
+                merencanakan progran kerja dibagian VDPR
               </p>
               
             </div>
@@ -733,14 +733,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; dibuat <strong><span>oleh</span></strong>. P D P R TIM
+        &copy; dibuat <strong><span>oleh</span></strong>. V D P R TIM
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/day-multipurpose-html-template-for-free/ -->
-        Desain <a>PDVR</a>
+        Desain <a>VDPR</a>
       </div>
     </div>
   </footer><!-- End Footer -->
