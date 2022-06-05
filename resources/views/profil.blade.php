@@ -108,7 +108,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1 style="color:#0000FF;">P &nbsp;  D &nbsp; P  &nbsp; R</h1>
+      <h1 style="color:#0000FF;">V &nbsp;  D &nbsp; P  &nbsp; R</h1>
       {{-- <h1>V D P R</h1> --}}
       {{-- <h2>بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم</h2> --}}
       
